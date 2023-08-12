@@ -1,18 +1,15 @@
-NOTE: [The project has been frozen.](https://github.com/AshiVered/SkyOS/issues/6)
-
+#Original logo
 ![logo](https://raw.githubusercontent.com/AshiVered/SkyOS/main/res/logo.png)
-# SkyOS
+#SkiesOS
+SkiesOS is a port of SkyOS for a Nokia 2720 Flip (Beatles). Right now, the project is in its first public beta! (0.5)
+#Original description
 SkyOS is a custom ROM for Nokia 800 Tough. The ROM is designed to improve speed and user experience. It's based on v40 firmware and
 it is now in the public alpha phase (0.1).
 
 
-
-
-![screenshot1](https://raw.githubusercontent.com/AshiVered/SkyOS/main/res/2022-12-26-08-00-15.png)
-![screenshot2](https://raw.githubusercontent.com/AshiVered/SkyOS/main/res/2022-12-26-08-00-24.png)
-
-
-
+#Screenshots/Скриншоты
+![screenshot1](https://raw.githubusercontent.com/Cobeta-beta/SkiesOS/main/res/2022-12-26-08-00-15.png)
+![screenshot2](https://raw.githubusercontent.com/Cobeta-beta/SkiesOS/main/res/2022-12-26-08-00-24.png)
 
 
 Changes from original ROM (KaiOS):
@@ -38,4 +35,8 @@ Install:
 - download boot.img&system.img from realeses page
 - flash with [edl](https://wiki.bananahackers.net/development/edl)
 
-Thanks to all the developers of the KaiOS community, especially those whose guides and resources I used!
+#My thanks to
+@minhduc-bui1 for helping me understand KaiOS better
+[Bananahackers comunity](https://discord.com/channels/472006912846594048/472144586295345153)
+All [members of 4pda forum](https://4pda.to/forum/index.php?showtopic=965321)
+And everyone! For giving me "motivation" to do that stuff!
