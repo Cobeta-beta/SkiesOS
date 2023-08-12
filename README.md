@@ -12,7 +12,7 @@ SkyOS is a custom ROM for Nokia 800 Tough. The ROM is designed to improve speed 
 it is now in the public alpha phase (0.1).
 
 
-# Screenshots/Скриншоты
+# Screenshots
 
 ![screenshot1](https://raw.githubusercontent.com/Cobeta-beta/SkiesOS/main/res/2022-12-26-08-00-15.png)
 ![screenshot2](https://raw.githubusercontent.com/Cobeta-beta/SkiesOS/main/res/2022-12-26-08-00-24.png)
