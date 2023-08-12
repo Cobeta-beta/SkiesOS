@@ -1,3 +1,4 @@
+Original project is [frozen](https://github.com/AshiVered/SkyOS/issues/6)
 # Original logo
 
 ![logo](https://raw.githubusercontent.com/AshiVered/SkyOS/main/res/logo.png)
@@ -5,6 +6,7 @@
 # SkiesOS
 
 SkiesOS is a port of SkyOS for a Nokia 2720 Flip (Beatles). Right now, the project is in its first public beta! (0.5)
+At this point, I don't think to continue the author's work, and add what creator wanted.
 
 # Original description
 
@@ -30,12 +32,21 @@ Changes from original ROM (KaiOS):
 - root
 - some fast patches
 
-To-do list:
+Creator to-do list:
 
 - Replacing stock apps with faster alternative apps.
 - add some functions (for example, task manager, like Android or GerdaOS).
 - add virtual RAM memory (swap file)
 - replacing boot logo
+
+Known bugs
+
+Origian Project :
+- For a while after the OS boots, you can't change settings in "quick settings"
+- Some applications doesnt open if it binded on the hotkey button. (Notes, Music, Browser, E-Mail, Camera. Everything else works fine.)
+Port bugs (0.5)
+- Flashlight not working
+- The phone is heats up when booting up
 
 Install:
 - download boot.img&system.img from realeses page
