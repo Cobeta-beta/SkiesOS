@@ -44,9 +44,10 @@ Known bugs
 Origian Project :
 - For a while after the OS boots, you can't change settings in "quick settings"
 - Some applications doesnt open if it binded on the hotkey button. (Notes, Music, Browser, E-Mail, Camera. Everything else works fine.)
-Port bugs (0.5)
+Port bugs (0.5) :
 - Flashlight not working
 - The phone is heats up when booting up
+- phone heats when charging in closed mode
 
 Install:
 - download boot.img&system.img from realeses page
